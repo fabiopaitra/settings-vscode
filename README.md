@@ -8,6 +8,7 @@
 - Use FiraCode with Ligatures
 - Ruler 100
 - Code Spell Checker config
+- Smart key search
 
 # Extensions:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
