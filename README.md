@@ -7,6 +7,7 @@
 - Vetur
 - Use FiraCode with Ligatures
 - Ruler 100
+- Code Spell Checker config
 
 # Extensions:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
