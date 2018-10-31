@@ -4,9 +4,9 @@
 - No Scroll beyond the last line
 - Auto inserted 2-spaces Tab
 - Auto save
-- Unlimited line length HTML
 - Vetur
 - Use FiraCode with Ligatures
+- Ruler 100
 
 # Extensions:
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
